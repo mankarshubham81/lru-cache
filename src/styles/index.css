@@ -1,0 +1,24 @@
+.tab-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+  }
+  
+  .tab-button {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+  }
+  
+  .tab-button.active {
+    background: #007bff;
+    color: white;
+  }
+  
+  .tab-panel {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background: #fff;
+  }
+  

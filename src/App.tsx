@@ -11,7 +11,6 @@ const App: React.FC = () => {
     { label: 'Comments', url: 'https://jsonplaceholder.typicode.com/comments?_limit=5' },
     { label: 'Albums', url: 'https://jsonplaceholder.typicode.com/albums?_limit=5' },
     { label: 'Photos', url: 'https://jsonplaceholder.typicode.com/photos?_limit=5' },
-    { label: 'TEST', url: 'https://jsonplaceholder.typicode.com/photos?_limit=5' },
   ];
 
   return (
